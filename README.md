@@ -4,9 +4,14 @@
 
 ## Description: YouTube Downloader with GUI
 
+# YouTube Downloader with GUI
+
 ## Overview
 
 This Python application provides a user-friendly graphical interface for downloading YouTube videos. The project utilizes the Tkinter library to create an intuitive interface where users can input a YouTube video link, choose download options, and initiate the download process.
+
+# // Note: Logos have been removed from the code for clarity and to maintain a professional presentation.
+
 
 ## Features
 
